@@ -3,6 +3,6 @@ include
 lib
 share
 dist
-src/newton_polynomial.egg-info
+src/error_limits.egg-info
 pyvenv.cfg
 __pycache__
